@@ -1,6 +1,6 @@
 # Liri
 
- >Liri is a lot like Apple iPhone's Siri.  Liri is a Language Interpretation and Recognition Interface, whereas Siri is a Speech Interpretation and Recognition Interface. Liri is a command line Node application that takes in four parameters and then returns data relative to what was inputted. `spotify-this-song` `movie-this` `do-what-it-says`
+ >Liri is a lot like Apple iPhone's Siri.  Liri is a Language Interpretation and Recognition Interface, whereas Siri is a Speech Interpretation and Recognition Interface. Liri is a command line Node application that takes in four parameters and then returns data relative to what was inputted. `spotify-this-song` `concert-this` `movie-this` `do-what-it-says`
 
 ### Deployment Process
 
