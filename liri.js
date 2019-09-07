@@ -10,8 +10,6 @@ var action = process.argv[2];
 var parameter = process.argv[3];
 
 
-
-
 function switchCase() {
 
   switch (action) {
@@ -56,7 +54,7 @@ else
 }
 
 
-
+//Bands in town api 
 var queryUrl = "https://rest.bandsintown.com/artists/"+movieName+"/events?app_id=codecademy";
 
 
@@ -128,6 +126,7 @@ function movieInfo(parameter) {
     findMovie = parameter;
   };
 
+  //omdb api
   var queryUrl = "http://www.omdbapi.com/?t=" + findMovie + "&y=&plot=short&apikey=trilogy";
   
   request(queryUrl, function(err, res, body) {
