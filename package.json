@@ -1,0 +1,20 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": ">Liri is a lot like Apple iPhone's Siri.  Liri is a Language Interpretation and Recognition Interface, whereas Siri is a Speech Interpretation and Recognition Interface. Liri is a command line Node application that takes in four parameters and then returns data relative to what was inputted. `spotify-this-song` `movie-this` `do-what-it-says`",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhayes428/liri-node-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhayes428/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/mhayes428/liri-node-app#readme"
+}
