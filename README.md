@@ -19,7 +19,7 @@
 
 
 
-![Liri Bot](LiriBot.mp4)
+![Liri Bot](LiriBot.gif)
 
 
 ### Creator
